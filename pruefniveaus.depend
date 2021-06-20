@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1466703800 source:/home/josef/Programmieren/Codeblocks/FESTI/pruefniveaus/main.cpp
+	<iostream>
+	<math.h>
+	"binver.h"
+
+1466703988 source:/home/josef/Programmieren/Codeblocks/FESTI/pruefniveaus/binver.cpp
+	"binver.h"
+
+1466703195 /home/josef/Programmieren/Codeblocks/FESTI/pruefniveaus/binver.h
+	<iostream>
+	<math.h>
+
+1466703800 source:/home/josef/Programmieren/Codeblocks/pruefniveaus/main.cpp
+	<iostream>
+	<math.h>
+	"binver.h"
+
+1466703195 /home/josef/Programmieren/Codeblocks/pruefniveaus/binver.h
+	<iostream>
+	<math.h>
+
+1467564189 source:/home/josef/Programmieren/Codeblocks/pruefniveaus/binver.cpp
+	"binver.h"
+
+1527700433 source:/home/josef/Programmieren/Codeblocks/STATISTIK/pruefniveaus/binver.cpp
+	"binver.h"
+
+1527700826 /home/josef/Programmieren/Codeblocks/STATISTIK/pruefniveaus/binver.h
+	<iostream>
+	<math.h>
+
+1527700542 source:/home/josef/Programmieren/Codeblocks/STATISTIK/pruefniveaus/main.cpp
+	<iostream>
+	<math.h>
+	"binver.h"
+
